@@ -23,7 +23,7 @@ public class move : MonoBehaviour {
             {
                 if (hit.collider.gameObject)
                     drageble = true;
-                    
+                    //blyat
             }
         }
         if(drageble)
